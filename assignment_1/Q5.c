@@ -1,3 +1,7 @@
+/******************************************************************************
+Problem : WAP to implement the power function without using pow library.
+******************************************************************************/
+
 #include <stdio.h>
 
 int powr(unsigned int x, unsigned int y)
